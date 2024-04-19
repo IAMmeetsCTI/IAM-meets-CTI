@@ -1,0 +1,382 @@
+{
+    "type": "bundle",
+    "id": "bundle--97c6528a-f028-43a4-9bec-8af57c80372b",
+    "objects": [
+        {
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--4f32a5b2-15ac-43a1-839c-b9f75b6776ba",
+            "created": "2023-05-26T15:40:21.817Z",
+            "modified": "2023-05-26T15:40:21.817Z",
+            "name": "TrustCorp",
+            "identity_class": "organization",
+            "sectors": [
+                "insurance",
+                "financial-services"
+            ],
+            "contact_information": "security@TrustCorp.com"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--0d228c03-c756-42bf-86e8-4c85f4313dd7",
+            "created": "2023-05-26T15:40:23.098314Z",
+            "modified": "2023-05-26T15:40:23.098314Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--607eca41-29b9-5aac-8fa5-216da9581f9b",
+            "target_ref": "x-observable-signature-missing-recertification--45c64415-b141-4b22-bf9f-bdb8f1eca59f"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--3cbb90ca-2815-4c01-a00a-11785b54d86f",
+            "created": "2023-05-26T15:40:30.930721Z",
+            "modified": "2023-05-26T15:40:30.930721Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--4d427c08-3707-59c4-b207-a50213062b65",
+            "target_ref": "x-observable-signature-missing-recertification--8289b492-d030-4a55-ac34-a686668c3503"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--3d0230bc-e002-4d0b-a294-33566e306c9a",
+            "created": "2023-05-26T15:40:26.833059Z",
+            "modified": "2023-05-26T15:40:26.833059Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--ff92a196-b6cc-55be-9ffe-1670ec6e2208",
+            "target_ref": "x-observable-signature-missing-recertification--f3f00977-2ead-416d-9c0c-1ae9d2393fc9"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--3eb32105-d3f2-42a6-9e49-3b933dd18b31",
+            "created": "2023-05-26T15:40:27.597348Z",
+            "modified": "2023-05-26T15:40:27.597348Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--b3282d86-b8ae-5af9-b107-8aabfdd1c7d8",
+            "target_ref": "x-observable-signature-missing-recertification--aa5bfb00-41b8-411c-af40-00fcec88643a"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--69a99602-c212-40ff-bdaa-1a1dfb75482a",
+            "created": "2023-05-26T15:40:24.979305Z",
+            "modified": "2023-05-26T15:40:24.979305Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--0c9a09a0-affc-5451-9914-1dd5cef888cd",
+            "target_ref": "x-observable-signature-missing-recertification--82d2d670-8e6e-4d4e-b23e-643663fda66a"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--9b08c2a0-5e34-4d55-9d80-3026225b6340",
+            "created": "2023-05-26T15:40:30.174435Z",
+            "modified": "2023-05-26T15:40:30.174435Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--23fcd8cf-5aba-51e7-ac8a-04469ae07e8f",
+            "target_ref": "x-observable-signature-missing-recertification--6ecd0b27-613a-415e-9fe3-06822c31389d"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--9b870ebb-5d61-40de-b5b4-39a43f246c6d",
+            "created": "2023-05-26T15:40:29.358108Z",
+            "modified": "2023-05-26T15:40:29.358108Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--3c1a853f-9d50-596c-a5e0-c27405d23bad",
+            "target_ref": "x-observable-signature-missing-recertification--1778d7ea-8543-40c2-bd6e-ae6a8dc16018"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--b73d8a64-6b47-4b27-99c4-69c5ecaf3848",
+            "created": "2023-05-26T15:40:25.783095Z",
+            "modified": "2023-05-26T15:40:25.783095Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--fc754397-9e90-5419-8732-00bdbf8cf4d5",
+            "target_ref": "x-observable-signature-missing-recertification--45524609-52b5-4c95-a8a9-f13bf184bfc7"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--b9a0051a-62cc-412b-83c1-ce55c0865024",
+            "created": "2023-05-26T15:40:28.377578Z",
+            "modified": "2023-05-26T15:40:28.377578Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--475206ff-a7e8-5016-8726-43e5d65cefe2",
+            "target_ref": "x-observable-signature-missing-recertification--d2b8af01-9455-4399-8297-01fa988fd839"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--c03be96f-7646-4c12-8747-5fb746cb2051",
+            "created": "2023-05-26T15:40:24.194664Z",
+            "modified": "2023-05-26T15:40:24.194664Z",
+            "relationship_type": "refers-to",
+            "source_ref": "x-observable-access-control-policy--0eae9724-2aa1-5f47-a9a8-1a7437ca8a90",
+            "target_ref": "x-observable-signature-missing-recertification--01f93a6b-e57e-4f96-980e-81456fc9cb97"
+        },
+        {
+            "type": "report",
+            "spec_version": "2.1",
+            "id": "report--3d0936fa-0711-4a93-855e-8044f0ed85bf",
+            "created": "2023-05-26T15:40:21.818002Z",
+            "modified": "2023-05-26T15:40:21.818002Z",
+            "name": "TrustCorp Missing Recertification",
+            "description": "Threat Report about missing role recertification objects of TrustCorp",
+            "report_types": [
+                "observed-data",
+                "vulnerability"
+            ],
+            "published": "2023-05-26T15:40:21.818002Z",
+            "object_refs": [
+                "identity--623b497f-6df6-4fad-a7bf-922d56a068dd",
+                "identity--4f32a5b2-15ac-43a1-839c-b9f75b6776ba",
+                "vulnerability--3ab73874-2707-4c96-a646-193e460f664b"
+            ]
+        },
+        {
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--623b497f-6df6-4fad-a7bf-922d56a068dd",
+            "created": "2023-05-26T15:40:21.817Z",
+            "modified": "2023-05-26T15:40:21.817Z",
+            "name": "John Doe",
+            "roles": [
+                "analyst"
+            ],
+            "identity_class": "individual",
+            "contact_information": "john.doe@TrustCorp.com"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "NET A EXT",
+            "id": "x-observable-access-control-policy--0c9a09a0-affc-5451-9914-1dd5cef888cd",
+            "identifier": "P_BR_A_EXT",
+            "owner": "Employee B (118xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "NET EXT",
+            "id": "x-observable-access-control-policy--0eae9724-2aa1-5f47-a9a8-1a7437ca8a90",
+            "identifier": "P_BR_NET",
+            "owner": "Employee B (118xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "VM 3",
+            "id": "x-observable-access-control-policy--23fcd8cf-5aba-51e7-ac8a-04469ae07e8f",
+            "identifier": "VM3",
+            "owner": "Employee F (085xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "8 R",
+            "id": "x-observable-access-control-policy--3c1a853f-9d50-596c-a5e0-c27405d23bad",
+            "identifier": "P_BR_8_R",
+            "owner": "Employee E (005xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "2c I",
+            "id": "x-observable-access-control-policy--475206ff-a7e8-5016-8726-43e5d65cefe2",
+            "identifier": "P_BR_2c_1",
+            "owner": "Employee D (123xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "TM3",
+            "id": "x-observable-access-control-policy--4d427c08-3707-59c4-b207-a50213062b65",
+            "identifier": "TM3",
+            "owner": "Employee F (085xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "11 M",
+            "id": "x-observable-access-control-policy--607eca41-29b9-5aac-8fa5-216da9581f9b",
+            "identifier": "P_BR_11_M",
+            "owner": "Employee A (044xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "11 I",
+            "id": "x-observable-access-control-policy--b3282d86-b8ae-5af9-b107-8aabfdd1c7d8",
+            "identifier": "P_BR_11_1",
+            "owner": "Employee C (119xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "NET A INT",
+            "id": "x-observable-access-control-policy--fc754397-9e90-5419-8732-00bdbf8cf4d5",
+            "identifier": "P_BR_A_INT",
+            "owner": "Employee B (118xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "acp_type": "role",
+            "spec_version": "2.1",
+            "display_name": "NET N INT",
+            "id": "x-observable-access-control-policy--ff92a196-b6cc-55be-9ffe-1670ec6e2208",
+            "identifier": "P_BR_N_INT",
+            "owner": "Employee B (118xxx)",
+            "type": "x-observable-access-control-policy"
+        },
+        {
+            "entity": "x-observable-access-control-policy--0eae9724-2aa1-5f47-a9a8-1a7437ca8a90",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--01f93a6b-e57e-4f96-980e-81456fc9cb97",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--3c1a853f-9d50-596c-a5e0-c27405d23bad",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--1778d7ea-8543-40c2-bd6e-ae6a8dc16018",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--fc754397-9e90-5419-8732-00bdbf8cf4d5",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--45524609-52b5-4c95-a8a9-f13bf184bfc7",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--607eca41-29b9-5aac-8fa5-216da9581f9b",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--45c64415-b141-4b22-bf9f-bdb8f1eca59f",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--23fcd8cf-5aba-51e7-ac8a-04469ae07e8f",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--6ecd0b27-613a-415e-9fe3-06822c31389d",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--4d427c08-3707-59c4-b207-a50213062b65",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--8289b492-d030-4a55-ac34-a686668c3503",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--0c9a09a0-affc-5451-9914-1dd5cef888cd",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--82d2d670-8e6e-4d4e-b23e-643663fda66a",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--b3282d86-b8ae-5af9-b107-8aabfdd1c7d8",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--aa5bfb00-41b8-411c-af40-00fcec88643a",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--475206ff-a7e8-5016-8726-43e5d65cefe2",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--d2b8af01-9455-4399-8297-01fa988fd839",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "entity": "x-observable-access-control-policy--ff92a196-b6cc-55be-9ffe-1670ec6e2208",
+            "spec_version": "2.1",
+            "id": "x-observable-signature-missing-recertification--f3f00977-2ead-416d-9c0c-1ae9d2393fc9",
+            "type": "x-observable-signature-missing-recertification"
+        },
+        {
+            "type": "course-of-action",
+            "spec_version": "2.1",
+            "id": "course-of-action--d51f7888-771d-4465-b067-5e4396e36647",
+            "created": "2023-05-26T15:40:23.107515Z",
+            "modified": "2023-05-26T15:40:23.107515Z",
+            "name": "Automated recertification processes",
+            "description": "Recertification processes need tool-based support. These tools automate the assignment of recertification tasks and allow for delegation."
+        },
+        {
+            "type": "course-of-action",
+            "spec_version": "2.1",
+            "id": "course-of-action--73fb3a9d-5dd5-4049-b235-f38e572ac290",
+            "created": "2023-05-26T15:40:23.107515Z",
+            "modified": "2023-05-26T15:40:23.107515Z",
+            "name": "Reporting of not recertified entities",
+            "description": "Tool-support can establish a reporting for non-recertified entities. This gives vision about problematic or outdated entities of an organization."
+        },
+        {
+            "type": "observed-data",
+            "spec_version": "2.1",
+            "id": "observed-data--3b0e029f-3eb7-4b65-836a-a265e99eecd8",
+            "created_by_ref": "identity--623b497f-6df6-4fad-a7bf-922d56a068dd",
+            "created": "2023-05-26T15:40:23.106516Z",
+            "modified": "2023-05-26T15:40:23.106516Z",
+            "first_observed": "2023-05-26T15:40:23.106516Z",
+            "last_observed": "2023-05-26T15:40:23.106516Z",
+            "number_observed": 1,
+            "object_refs": [
+                "x-observable-signature-missing-recertification--45c64415-b141-4b22-bf9f-bdb8f1eca59f",
+                "x-observable-signature-missing-recertification--01f93a6b-e57e-4f96-980e-81456fc9cb97",
+                "x-observable-signature-missing-recertification--82d2d670-8e6e-4d4e-b23e-643663fda66a",
+                "x-observable-signature-missing-recertification--45524609-52b5-4c95-a8a9-f13bf184bfc7",
+                "x-observable-signature-missing-recertification--f3f00977-2ead-416d-9c0c-1ae9d2393fc9",
+                "x-observable-signature-missing-recertification--aa5bfb00-41b8-411c-af40-00fcec88643a",
+                "x-observable-signature-missing-recertification--d2b8af01-9455-4399-8297-01fa988fd839",
+                "x-observable-signature-missing-recertification--1778d7ea-8543-40c2-bd6e-ae6a8dc16018",
+                "x-observable-signature-missing-recertification--6ecd0b27-613a-415e-9fe3-06822c31389d",
+                "x-observable-signature-missing-recertification--8289b492-d030-4a55-ac34-a686668c3503"
+            ]
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--37ae9ae5-0b5b-4cfb-aa3d-1d6a4fd268f2",
+            "created": "2023-05-26T15:40:23.107515Z",
+            "modified": "2023-05-26T15:40:23.107515Z",
+            "relationship_type": "observed_data",
+            "source_ref": "observed-data--3b0e029f-3eb7-4b65-836a-a265e99eecd8",
+            "target_ref": "vulnerability--3ab73874-2707-4c96-a646-193e460f664b"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--b3446d55-c2be-4c4c-aa3e-9b48e8f450d8",
+            "created": "2023-05-26T15:40:23.107515Z",
+            "modified": "2023-05-26T15:40:23.107515Z",
+            "relationship_type": "course-of-action",
+            "source_ref": "course-of-action--d51f7888-771d-4465-b067-5e4396e36647",
+            "target_ref": "vulnerability--3ab73874-2707-4c96-a646-193e460f664b"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--aa6c6b23-d909-4e06-8e4b-3687fa25de6d",
+            "created": "2023-05-26T15:40:23.108514Z",
+            "modified": "2023-05-26T15:40:23.108514Z",
+            "relationship_type": "course-of-action",
+            "source_ref": "course-of-action--73fb3a9d-5dd5-4049-b235-f38e572ac290",
+            "target_ref": "vulnerability--3ab73874-2707-4c96-a646-193e460f664b"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3ab73874-2707-4c96-a646-193e460f664b",
+            "created": "2023-05-26T15:40:23.107515Z",
+            "modified": "2023-05-26T15:40:23.107515Z",
+            "name": "Outdated entities due to missing recertification",
+            "description": "Entities without recertification may grant access to undesired objects. Attackers might gain elevated access."
+        }
+    ]
+}
